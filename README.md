@@ -60,7 +60,18 @@ or
 
 `yarn` (for yarn)
 
-4. Start the app
+------
+
+⚠ Remember: Before you start the app, create an `.env` file to keep your
+environment variables. For more details, look at the `.env_sample`.
+
+------
+
+- Initialize your firebase app
+
+- Copy the requested credentials
+
+4. Then, you start the app
 
 `npm run start` (for nodejs)
 
